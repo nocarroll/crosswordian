@@ -1,6 +1,7 @@
 :root {
   --grid-colour: #111;
-  --selected-colour: #ffe500;
+  --selected-colour-grid: #ffe500;
+  --selected-colour-clues: #fff7b2;
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;

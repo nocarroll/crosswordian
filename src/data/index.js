@@ -28,6 +28,14 @@ export const clues = {
     wordBreaks: [],
     hyphens: [],
   },
+  '10a': {
+    startAddress: '2.6',
+    fullAddress: ['2.6', '2.7', '2.8', '2.9', '2.10', '2.11', '2.12'],
+    clue: 'Repeated sporting fixture (7)',
+    answer: 'REMATCH',
+    wordBreaks: [],
+    hyphens: [],
+  },
   '24a': {
     startAddress: '12.0',
     fullAddress: [
@@ -44,7 +52,7 @@ export const clues = {
       '12.10',
       '12.11',
     ],
-    clue: 'Implant (5)',
+    clue: 'Orator stirring up dangerous passions (6-6)',
     answer: 'RABBLEROUSER',
     wordBreaks: [],
     hyphens: ['12.5'],
@@ -63,6 +71,14 @@ export const clues = {
     fullAddress: ['0.4', '1.4', '2.4', '3.4'],
     clue: 'French nobleman and author (4)',
     answer: 'SADE',
+    wordBreaks: [],
+    hyphens: [],
+  },
+  '4d': {
+    startAddress: '0.6',
+    fullAddress: ['0.6', '1.6', '2.6', '3.6', '4.6', '5.6'],
+    clue: 'Looked after (6)',
+    answer: 'NURSED',
     wordBreaks: [],
     hyphens: [],
   },
